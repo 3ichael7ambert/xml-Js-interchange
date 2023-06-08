@@ -1,0 +1,6 @@
+*.xml text linguist-detectable=true
+*.xml linguist-language=XML
+
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
