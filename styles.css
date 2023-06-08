@@ -1,0 +1,27 @@
+.centered-element {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  color: #fff;
+  font-size: 36px;
+  text-shadow: 2px 2px 4px #000;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  font-size: 18px;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px #888;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
